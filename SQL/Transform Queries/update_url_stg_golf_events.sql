@@ -1,0 +1,1 @@
+"UPDATE stg_golf_events SET url = %s WHERE name = %s AND event_id = %s"
